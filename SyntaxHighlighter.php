@@ -122,6 +122,7 @@ class SyntaxHighlighter {
 			'java'		=> 'Java',
 			'vbnet'		=> 'Vb',
 			'fortran'	=> 'Fortran',
+			'bluem'		=> 'BlueM',
 		);
 
 		$alias = 'Plain';
