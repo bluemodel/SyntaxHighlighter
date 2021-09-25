@@ -119,7 +119,8 @@ class SyntaxHighlighter {
 			'javascript'	=> 'JScript',
 			'bash'		=> 'Bash',
 			'shell'		=> 'Bash',
-			'java'		=> 'Java'
+			'java'		=> 'Java',
+			'vbnet'		=> 'Vb',
 		);
 
 		$alias = 'Plain';
