@@ -7,7 +7,7 @@
  * BlueM brush by Felix Froehlich
  * Last update : 25 Sept 2021
  * Homepage    : https://www.bluemodel.org
- * Brush page  : https://github.com/jamaa/SyntaxHighlighter
+ * Brush page  : https://github.com/bluemodel/SyntaxHighlighter
  *
  */
 ;(function()
