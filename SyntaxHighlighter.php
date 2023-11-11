@@ -123,6 +123,7 @@ class SyntaxHighlighter {
 			'vbnet'		=> 'Vb',
 			'fortran'	=> 'Fortran',
 			'bluem'		=> 'BlueM',
+			'wvp'		=> 'WaveWVP'
 		);
 
 		$alias = 'Plain';
